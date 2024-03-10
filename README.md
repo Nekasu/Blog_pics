@@ -1,2 +1,2 @@
 # Blog_pics
-A repository for pics in my blogs, whether it is offline or online
+A repository for pics in my blogs, whether blogs are offline or online
